@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hexo • All posts by \"感悟人生\" category",
+    "description": "",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/life/%E4%BA%BA%E7%B1%BB%E7%9A%84%E6%95%8C%E4%BA%BA/",
+            "url": "http://example.com/life/%E4%BA%BA%E7%B1%BB%E7%9A%84%E6%95%8C%E4%BA%BA/",
+            "title": "人类的敌人",
+            "date_published": "2022-01-07T14:53:43.000Z",
+            "content_html": "",
+            "tags": [
+                "人生"
+            ]
+        }
+    ]
+}
